@@ -1,10 +1,6 @@
 # Postcode-Cost-Calculator
+
 A delivery cost calculator using Google Maps API
-
-My first ever project, I will attempt to use/learn HTML,CSS and Javascript. 
-It will calculate the cost of delivery to a specific postcode using the distance matrix tool. 
-
-
 
 Type in Postcode and find how much it will cost to deliver there. 
 
@@ -30,7 +26,7 @@ Distance Calculator (PHP)
 http://stackoverflow.com/questions/18550895/distance-calculator-in-php
 
 
-JS: 
+JavaScript example: 
 
 http://stackoverflow.com/questions/31292271/outputting-distance-matrix-results-in-a-div?noredirect=1&lq=1
 
